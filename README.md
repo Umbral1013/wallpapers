@@ -1,11 +1,24 @@
 # Wallpapers
+---
 
-This is a collection of wallpapers i've found over the last months.
-Most of the files are named with the artist or the photographer's name
-on it.
+This is a collection of images
+i've been collecting
+over the last months.
 
-I won't put a licence file on this because i can't speak for the work
-of others :^).
+Most of the drawings
+and pictures
+in this repository
+have the author's name
+on the filename.
 
-Mainly these were found on [Artstation](https://artstation.com/), 
-[Pixiv](https://www.pixiv.net/en/) and [Unsplash](https://unsplash.com/).
+I won't put a license file
+on this repository
+because i can't
+speak for the
+work of others :^).
+
+Mainly i found
+this pictures on
+[Artstation](https://artstation.com),
+[Pixiv](https://www.pixiv.net/en/) and
+[Unsplash](https://unsplash.com/).
